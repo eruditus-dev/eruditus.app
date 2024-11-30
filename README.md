@@ -1,1 +1,0 @@
-# eruditus.app
